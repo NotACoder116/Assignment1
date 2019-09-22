@@ -1,0 +1,10 @@
+1. I use JSON.stringify method to compare the objects.
+2. In the classs using inheritance code i am just calculating the grade of a student 
+   by passing the marks.
+3. In Destructuring Assignment i explained the swaping of two numbers.
+4. String Literal: A string literal is zero or more characters enclosed in double (") or single (') quotation marks. 
+   Template Literals: Characters are enclosed in (`).
+5. I used three methods for converting two arrays into single array.
+   in first method, i used while loop for iterating the array.
+   in second method, i used the Symbol.iterator.
+6. Test the regular expression for matching.
