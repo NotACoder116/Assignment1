@@ -1,4 +1,5 @@
-1. I use JSON.stringify method to compare the objects.
+1. I use JSON.stringify method to compare the objects but it doesn't work in case of function,undefined.
+   So i used one more method to compare the objects property.  
 2. In the classs using inheritance code i am just calculating the grade of a student 
    by passing the marks.
 3. In Destructuring Assignment i explained the swaping of two numbers.
